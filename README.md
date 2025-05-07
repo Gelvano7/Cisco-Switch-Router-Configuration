@@ -8,7 +8,7 @@
 
 ## Objective
 
-Designed and simulated a secure enterprise network in Cisco Packet Tracer, implementing VLAN segmentation, router-on-a-stick inter-VLAN routing, and centralized DHCP. Strengthened security, port security, and access controls—practicing real-world network administration in a virtual lab.
+Designed and simulated a secure enterprise network in Cisco Packet Tracer, implementing VLAN segmentation, router-on-a-stick inter-VLAN routing, and centralized DHCP. Strengthened security, port security, and access controls practicing real-world network administration in a virtual lab.
 
 ---
 
